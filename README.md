@@ -2,7 +2,7 @@
 
 > **The Official-Grade AI-Powered Digital Companion for the FIFA World Cup 2026™**  
 > *Blending cutting-edge WebGL graphics, Framer Motion animations, and Google Gemini 3.5 Flash intelligence.*
-
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/534482de-9954-415a-9d8b-3bd07914fe62" />
  <a href="https://marvelous-crostata-55baee.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo_Website-marvelous--crostata--55baee.netlify.app-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
