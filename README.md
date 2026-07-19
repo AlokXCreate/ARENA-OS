@@ -240,4 +240,14 @@ The UI styling relies entirely on native CSS custom variables, preventing depend
 ⚽ **Made with ❤️ for the beautiful game** ⚽
 
 </div>
-
+<img width="1917" height="863" alt="Image" src="https://github.com/user-attachments/assets/4569d738-85a1-47c3-934b-9e95a7988e28" />
+<img width="1917" height="867" alt="Image" src="https://github.com/user-attachments/assets/50df7f80-1212-4f8a-b873-b6708b772cdc" />
+<img width="1907" height="861" alt="Image" src="https://github.com/user-attachments/assets/a5f006eb-52b1-49e0-901d-90d4f025bc77" />
+<img width="1917" height="870" alt="Image" src="https://github.com/user-attachments/assets/472ab4ef-4171-4fcf-92e6-8824b85b6f43" />
+<img width="1918" height="866" alt="Image" src="https://github.com/user-attachments/assets/ac6e2ae9-cbf2-4f43-ad81-bc24223c22bb" />
+<img width="1912" height="865" alt="Image" src="https://github.com/user-attachments/assets/2e3c769a-9ca5-4b7c-a624-91bf1f932833" />
+<img width="1917" height="873" alt="Image" src="https://github.com/user-attachments/assets/fb5dab17-423a-4aca-8783-8292b2b35368" />
+<img width="1918" height="867" alt="Image" src="https://github.com/user-attachments/assets/6cd0c8b7-551f-46f6-bba9-60794c848c32" />
+<img width="1915" height="867" alt="Image" src="https://github.com/user-attachments/assets/1093e6a4-ff20-44d6-b81b-eb413caaaf57" />
+<img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/e49b9b87-050b-4c72-beda-9fb2140e47de" />
+<img width="1912" height="862" alt="Image" src="https://github.com/user-attachments/assets/b2ef5e6b-d6f6-41c0-a60e-dfc635c70e5d" />
