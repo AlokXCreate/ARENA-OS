@@ -3,7 +3,14 @@
 > **The Official-Grade AI-Powered Digital Companion for the FIFA World Cup 2026™**  
 > *Blending cutting-edge WebGL graphics, Framer Motion animations, and Google Gemini 3.5 Flash intelligence.*
 
----
+ <a href="https://marvelous-crostata-55baee.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo_Website-marvelous--crostata--55baee.netlify.app-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/alokkadam-ai/" target="_blank">
+    <img src="https://img.shields.io/badge/🤝_LinkedIn-Alok_Kadam-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ## 🚀 Technical Stack & Badges
 
